@@ -1,6 +1,6 @@
 # Manual-testing-API-Postman-collection
 Pre exam exercise on manual testing course using API/Postman
-The pre exam exercise was createin two tasks. 
+The pre exam exercise from December 2024 was create in two tasks. 
 
 Task 1: Web application that supposed to be tested for basic functionalitis in conditions as logged and non logged users. Functionalities of the keys, navigation bars, ordering and deleting items, testing options for registration, password, data protection. 
 
